@@ -23,6 +23,7 @@
   "homepage": "https://github.com/rudimk/freecodecamp-guides-rabbitmq-tortoise#readme",
   "dependencies": {
     "node-cron": "^1.2.1",
+    "superagent": "^3.7.0",
     "tortoise": "^1.0.1"
   }
 }
