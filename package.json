@@ -1,0 +1,24 @@
+{
+  "name": "freecodecamp-guides-rabbitmq-tortoise",
+  "version": "1.0.0",
+  "description": "Sample code to accompany the FreeCodeCamp guide on async messaging with RabbitMQ and Tortoise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudimk/freecodecamp-guides-rabbitmq-tortoise.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "tortoise",
+    "amqp"
+  ],
+  "author": "Rudraksh M.K.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rudimk/freecodecamp-guides-rabbitmq-tortoise/issues"
+  },
+  "homepage": "https://github.com/rudimk/freecodecamp-guides-rabbitmq-tortoise#readme"
+}
