@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/rudimk/freecodecamp-guides-rabbitmq-tortoise/issues"
   },
-  "homepage": "https://github.com/rudimk/freecodecamp-guides-rabbitmq-tortoise#readme"
+  "homepage": "https://github.com/rudimk/freecodecamp-guides-rabbitmq-tortoise#readme",
+  "dependencies": {
+    "node-cron": "^1.2.1",
+    "tortoise": "^1.0.1"
+  }
 }
